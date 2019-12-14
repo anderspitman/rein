@@ -35,5 +35,5 @@ function MyComponent(state) {
 
 
 ```
-For me info, check out
+For more info, check out
 [the docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model).
