@@ -1,9 +1,13 @@
 # Introduction
 
-rein is a JavaScript UI framework so small it doesn't exist. The goals of rein
+rein is a JavaScript UI framework so small it doesn't exist. "rein" is a
+German word meaning pure, plain, or clean. It is pronounced similar to
+"mine".
+
+The goals of rein
 are:
 
-1. No dependencies
+1. Make UI components with no dependencies
 2. Tiny runtime
 3. Efficient rendering
 4. Reusable components, even between frameworks
