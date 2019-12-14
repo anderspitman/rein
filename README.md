@@ -14,7 +14,8 @@ are:
 
 # Components
 
-rein components are functions that take a state object, and return a DOM
+rein components are functions that take their data ("props" in
+most frameworks) as arguments, and return a DOM
 element. That's it. You can render them with raw DOM operations:
 
 ```javascript
